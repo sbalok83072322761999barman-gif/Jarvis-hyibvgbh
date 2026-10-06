@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">JARVIS</string>
+    <string name="accessibility_service_description">Allows JARVIS AI Agent to inspect screen elements (buttons, input fields, text), perform user-requested navigation (Home, Back, Recents, Scroll, Click, Type), and verify action outcomes safely.</string>
+    <string name="notification_service_label">JARVIS Notification Reader</string>
+    <string name="foreground_notification_title">JARVIS Active ("Hey JARVIS")</string>
+    <string name="foreground_notification_text">Listening for wake word &amp; standing by for voice automation</string>
+    <string name="nav_hud">HUD</string>
+    <string name="nav_agent">Agent</string>
+    <string name="nav_tasks">Tasks &amp; Files</string>
+    <string name="nav_logs">Logs</string>
+    <string name="nav_permissions">Shield</string>
+    <string name="status_idle">JARVIS is ready.</string>
+    <string name="status_listening">Listening...</string>
+    <string name="status_thinking">Processing...</string>
+    <string name="status_executing">Executing...</string>
+    <string name="status_verifying">Checking...</string>
+    <string name="status_completed">Done.</string>
+    <string name="status_error">I couldn\'t complete that action.</string>
+    <string name="input_placeholder">Speak or type in English, Hindi, or Hinglish...</string>
+    <string name="security_warning_prototype">Security Notice: Prototype API key via BuildConfig. Do not share APK publicly.</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS",
+  "description": "Advanced Android AI Agent & Voice Automation Assistant supporting English, Hindi, and Hinglish with real Accessibility, System, Notification, File, and Multi-step Automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
